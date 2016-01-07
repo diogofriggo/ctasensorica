@@ -1,27 +1,31 @@
-Plano de Atividades Diogo Friggo:
+﻿Projeto: PC Data Spider 
+Descrição: aquisição de dados análogicos e transferência desses dados em formato digital para o computador.
+Código: https://github.com/pcDataSpider
+Documentação: não existente
+Maturidade: Produto
+Comentários: pouca explicação no site, não entendi exatamente as vantagens do dispositivo e não me informei mais pois o descartei por falta de documentação. Caso eu descubra que esse seja um produto interessante vale a pena entrar em contato com os desenvolvedores a cerca do status da documentação. Não ficou claro a vantagem dele sobre um arduino para aquisição de dados.
+Viabilidade: 
 
-Vigência: 01/12/2015 a 30/11/2016
+Projeto: Breathing Games
+Descrição: auxílio no tratamento de doenças crônicas usando a respiração para interagir com um jogo 
+Código: https://github.com/breathinggames
+Documentação: Muito bem documentado (https://drive.google.com/folderview?id=0BzrQyEif2HItfjFGVWF3a3VZaVBseTFnSllodE9aYWxQaHRMVjNnaWNZMGQzU1NfcFVPVlU&usp=drive_web). Além de pelo menos um vídeo detalhando a prototipagem do hardware.
+Maturidade: Produto
+Comentários: pontos fortes são: aumento do bem-estar de milhares de pessoas com problemas respiratórios e redução nos gastos com saúde devido ao aumento na eficiência de tratamentos. Jogo desenvolvido em Unity. Existe uma idéia de contribuir com a pesquisa para curas com base nos dados coletados pelo jogo.
+Viabilidade: Béuren (com outros colaboradores?) tem algo desenvolvido em relação a esse projeto. Projeto muito desafiador no entanto acredito na sua viabilidade técnica além de ter baixo custo. O casing do dispositivo foi feito com uma impressora 3D, talvez possamos invocar a João-de-barro para essa tarefa.
 
-Tópico: Adaptação de instrumentos abertos e livres para contexto nacional
+Projeto: i-pot
+Descrição: 
+Código:
+Documentação:
+Maturidade: 
+Comentários: 
+Viabilidade: 
 
-O surgimento de repositórios de instrumentos científicos e educacionais abertos em diferentes países ampliam o alcance e do conhecimento relacionado ao hardware, assim como criam novas possibilidades de aplicação em ensino, pesquisa e também na indústria. Estes repositórios passam a apresentar informações que permitem o uso, estudo e reprodução dos instrumentos, usualmente chamado de hardware aberto ou livre, por estar associado à documentação detalhada e licenciamento permissivo. 
-
-Entretanto, a reprodução e adaptação do instrumento por brasileiros pode não ser trivial pela não disponibilidade de materiais e peças no mercado nacional, ou então pela diferente natureza de infraestrutura e serviços tipicamente encontrados em diferentes localidades.
-
-Neste contexto, o presente plano de trabalho consiste em estudar repositórios estrangeiros que contenham instrumentos científicos abertos e livres e buscar adaptar estes instrumentos para a realidade brasileira. Será dada atenção para instrumentos de interesse científico a fim de permitir ao aluno aprofundar seus conhecimentos e experiência na área de Engenharia Física.
-
-Etapa 1: Estudo de repositórios de hardware aberto e livre.
-Nesta etapa serão selecionados repositórios de instrumentos aberto e será elaborada uma lista de instrumentos científicos abertos com potencial de reprodução local. Exemplos iniciais de repositórios são os mantidos pelo grupo de pesquisa MOST (Michigan Tech Open Sustainability Technology), Sensorica, Public Laboratory for Open Technology and Science, entre outros.
-
-Etapa 2: Familiarização com ferramentas e métodos do Centro de Tecnologia Acadêmica.
-Nesta estapa o aluno irá se familiarizar com as ferramentas abertas e colaborativas e os métodos utilizados pela equipe do Centro de Tecnologia Acadêmica a fim de facilitar a integração do aluno no Centro e facilitar a colaboração. 
-
-Etapa 3: Seleção de Instrumento Aberto
-Será realizada uma pré-seleção de instrumentos abertos, considerando a viabilidade de construção e relevância de adaptação para o contexto nacional e a infraestrutura do CTA. Uma apresentação do resultado parcial da pesquisa será apresentada em seminário dirigido ao grupo.
-
-Etapa 4: Adaptação do instrumento. 
-O(s) instrumento(s) selecionados serão estudados e suas peças e partes serão adaptadas a fim de construção com peças e equipamentos disponíveis no mercado nacional. 
-
-Etapa 5: Apresentação dos resultados e documentação do projeto
-Apesar da prática do Centro de Tecnologia Acadêmica prezar pela documentação da execução do projeto durante a sua realização, ao final do período pode ser necessária a organização do material, tipicamente em repositório git e/ou formato wiki. Após esta etapa o aluno irá apresentar seus resultados para o grupo, em feiras e eventos de ciência e tecnologia assim como eventos internos da UFRGS.
-
+Projeto: 
+Descrição: 
+Código:
+Documentação:
+Maturidade: 
+Comentários: 
+Viabilidade: 
